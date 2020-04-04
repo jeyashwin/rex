@@ -12,11 +12,7 @@ class AboutUs extends Component {
             <div> 
             <HomePageInfo> 
             <div className="hero-about">
-           <div className="small-container text-center">
-                    <h1 className="big-headline hero-headline">
-                         About us
-                    </h1>
-                </div>
+            
              </div>
               
              <div className="text-center-xs-down my-auto">
